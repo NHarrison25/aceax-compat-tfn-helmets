@@ -140,7 +140,8 @@ class XtdGearInfos
 		/*Organization follows key:value combination order, e.g.:
 		Comtac 3 FDE
 			C3 FDE (Headset On)
-				C3 FDE (Headset On / Cover 1)*/
+				C3 FDE (Headset On / Cover 1)
+		*/
 
 		//Comtac 3 FDE
 		class TFN_MT1_C3_FDE_1_B_On
