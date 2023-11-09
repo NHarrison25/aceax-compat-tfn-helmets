@@ -9,6 +9,8 @@ class CfgPatches
 	};
 };
 
+#include "CfgVehicles.hpp"
+
 class XtdGearModels
 {
 	class CfgWeapons
