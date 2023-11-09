@@ -1176,7 +1176,7 @@ class XtdGearInfos
 			headsetModel = "amp";
 			headsetState = "headsetOn";
 			cover = "scrim";
-			strobeType = "noStrobe";
+			strobeType = "h5";
 			chinStrap = "chinStrapOn";
 			helmetLight = "helmetLightOn";
 		};
